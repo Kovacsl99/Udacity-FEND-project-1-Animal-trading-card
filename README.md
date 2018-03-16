@@ -1,1 +1,1 @@
-# Udacity-FEND-project-1-Animal-trading-card
+Google Developer Scholarship Front End Nanodegree first project
